@@ -26,10 +26,10 @@ This project is a graphical maze solver application built using Python's Tkinter
 ## Setup
 1. Clone the repository:
     ```bash
-   git clone https://github.com/your-username/maze-solver.git
-2. Navigate to the project directory:
-    ```bash
-    cd 
+   git clone https://github.com/sibobbbbbb/MazeSolver-Using-BFS-and-DFS-Algorithm.git
+2. Navigate to the repository directory:
+    ```bash 
+    cd MazeSolver-Using-BFS-and-DFS-Algorithm
 3. Ensure you have Python 3 installed.
 4. Run the application:
     ```bash
