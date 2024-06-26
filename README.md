@@ -5,7 +5,6 @@
 - [Technologies Used](#technologies-used)
 - [Features](#features)
 - [Setup](#setup)
-- [Acknowledgements](#acknowledgements)
 
 ## General Info
 This project is a graphical maze solver application built using Python's Tkinter library. It provides an interactive way to visualize maze solving algorithms like Breadth-First Search (BFS) and Depth-First Search (DFS). The application generates a maze, sets random start and end points, and allows the user to solve the maze using the selected algorithm.
